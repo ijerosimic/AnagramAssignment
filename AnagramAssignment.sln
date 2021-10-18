@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramAssignment", "AnagramAssignment\AnagramAssignment.csproj", "{1C5F23EA-268B-42D0-A0CD-B395EED8F95C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramAssignmentTests", "AnagramAssignmentTests\AnagramAssignmentTests.csproj", "{5DB76B95-A4A3-4637-8A4C-785DCB34F437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5F23EA-268B-42D0-A0CD-B395EED8F95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5F23EA-268B-42D0-A0CD-B395EED8F95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5F23EA-268B-42D0-A0CD-B395EED8F95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5F23EA-268B-42D0-A0CD-B395EED8F95C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB76B95-A4A3-4637-8A4C-785DCB34F437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB76B95-A4A3-4637-8A4C-785DCB34F437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB76B95-A4A3-4637-8A4C-785DCB34F437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB76B95-A4A3-4637-8A4C-785DCB34F437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
